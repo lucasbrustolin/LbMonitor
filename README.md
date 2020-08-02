@@ -2,6 +2,6 @@
 Objeto para obter controle de execução de rotinas executadas com ou sem interface [Job] + Monitoramento.
 
 
-:warning:  *** Em desenvolvimento 
+:warning:  <b>Em desenvolvimento</b> 
 
-![LbMonitor.png](./resource/LbMonitor.png)
+![LbMonitor.PNG](./resource/LbMonitor.PNG)
